@@ -1,7 +1,7 @@
 pip>=23.1
 setuptools>=65
 wheel
-tensorflow-cpu==2.15.0   # or tensorflow-cpu==2.15.0
+tensorflow  # or tensorflow-cpu==2.15.0
 pandas
 numpy
 scikit-learn
